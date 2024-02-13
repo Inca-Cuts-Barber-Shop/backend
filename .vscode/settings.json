@@ -1,7 +1,5 @@
 {
-  "cSpell.words": [
-    "incacuts",
-    "incaserver"
-  ],
-  "java.configuration.updateBuildConfiguration": "interactive"
+  "cSpell.words": ["incacuts", "incaserver"],
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.compile.nullAnalysis.mode": "automatic"
 }
